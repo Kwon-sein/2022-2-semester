@@ -1,5 +1,6 @@
-# 2022-2-semester
+# Master 2022-2-semester
 
-Deep Learning
+* Deep Learning
 
-Database System (postgresql)
+* Database System (postgresql)
+
