@@ -2,4 +2,4 @@
 
 Deep Learning
 
-Database System (Postgresql)
+Database System 
